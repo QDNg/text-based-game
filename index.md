@@ -1,8 +1,7 @@
 ### The star fruit tree is a text based adventure game made using Python
 
 - The game is based on the Vietnamese folktale: the star fruit tree
-- The following is the code for it 
--
+- The following is the code for it :
 ''' 
 
 import sys
