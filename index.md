@@ -3,7 +3,9 @@
 - The game is based on the Vietnamese folktale: the star fruit tree
 - The following is the code for it 
 -
-''' import sys
+''' 
+
+import sys
 
 #The story is based loosely on the translation of the Vietnamese folktale "The golden star fruit tree" by vietnammonpaysnatal.fr
 #To see the translation, follows this link: https://www.vietnammonpaysnatal.fr/the-golden-star-fruit-tree-an-khe-tra-vang/
@@ -148,5 +150,5 @@ if int_choice0 == 1:
 elif int_choice0 == 2 :
   sys.stdout.write(endings[0])
 
-
+'''
 
